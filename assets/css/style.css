@@ -1,0 +1,15 @@
+.title {
+  font-family: "Courier New";
+  font-size: 48px;
+  background: hsl(0, 79%, 85%);
+  color: hsl(0, 79%, 62%);
+  transition: all 0.3s;
+}
+
+.list {
+  font-family: "Arial";
+  font-size: 24px;
+  background: hsl(195, 53%, 85%);
+  color: hsl(195, 53%, 65%);
+  transition: all 0.3s;
+}
